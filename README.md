@@ -8,5 +8,16 @@ This project has two orthogonal purposes:
 
 3. This is an edit I make after 3 hours. I want to first formalise the FLP result.
 
+## Post Mortem
+
+I followed a "maximally vibe-code" approach to see how far I could get, and to learn some tricks. I stopped when vibe-coding became unproductive. The experiment stays incomplete. This experiment lasted all of 2.5 hours in the middle of a sleepless night. I used medium thinking modes with high thinking when GPT got stuck.
+
+
+## Verdict 
+GPT-5.2 made a great start. It could come up with good definitions. I have left in some of the weird ones as well. But it began stuttering and outright lying as it progressed. It started adding ridiculously strong assumptions. At some point it couldn't tell that applying rcases on an implication was nonsense.
+The project is left incomplete at the point where GPT stalled. I have no time to clean up this mess.
+If someone wants to fork the repository and pick up the pieces to finish it, as long as you offer attribution (license : Apache 2.0) you may finish it however you see fit.
+
+
 Primary References:
 - [Decentralized Thoughts](https://decentralizedthoughts.github.io/2019-11-12-Sync-HotStuff/)
